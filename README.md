@@ -1,1 +1,1 @@
-# tflite-build-using-openwrt
+# tflite interpreter gcc build using openwrt toolchain
